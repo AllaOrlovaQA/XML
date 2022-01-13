@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_Report>
+   <ID>Unic number</ID>
+  <Summary>What_where_when</Summary>
+  <Description>More informstion</Description>
+  <STR>Steps to reproduce</STR>
+  <AR>Actual result</AR>
+  <ER>Expected result</ER>
+  <Environment>OS_Device_Browser</Environment>
+  <Severity>How bug affects app</Severity>
+  <Attaches>Pictures/videos</Attaches>   
+ </Bug_Report>
