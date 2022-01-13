@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+ <name>Alla Orlova</name>
+ <age>38</age>
+ <pets>
+   <cat>Murka</cat>
+   <dog>Vise</dog>   
+  </pets>      
+ <future_sallary>3150 dollars</future_sallary>
+</person>
