@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skills>
+ <Theory>
+  <Theory1>Principes</Theory1>
+  <Theory1>Methods</Theory1>
+  <Theory1>SDLS</Theory1>
+  <Theory1>STLS</Theory1>
+ </Theory>
+ <Tools>
+   <Tool>GitBash</Tool>
+   <Tool>GitHub</Tool>
+</Tools>
+ <ProgrLang>
+   <PL>Python</PL>
+   <PL>JS</PL>
+ </ProgrLang>
+ <DB>SQL</DB>   
+ </Skills>
